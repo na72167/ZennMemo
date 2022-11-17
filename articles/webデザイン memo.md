@@ -14,8 +14,6 @@ https://www.youtube.com/watch?v=ByBwonNGnTs&list=PLs0PfsB4pRduzIH3OeCsnOhqgWsN8s
 
 ワイヤーフレームの作成
 
-
-
 01:17　デザインのサイズについて
 
 01:40　トップビュー（メインビジュアル）の作成
@@ -95,5 +93,4 @@ https://sankoudesign.com/category/colorful/
 細かいデザインはいったん置いておく。
 先に実装して自分で触って配置と間隔を固めておく。
 変更に強いコードを明確にする。
-
 
