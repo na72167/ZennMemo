@@ -6,6 +6,27 @@ topics: []
 published: false
 ---
 
+ソースコードを読む
+
+ここでwebデザインなども色々買える
+フレームワークやライブラリも指定できる
+https://www.creative-tim.com/
+登録メアド googleアカウントのfacebook
+
+
+https://qiita.com/tamago3keran/items/f470593926458b7ef52a
+
+以前買ったサイト
+https://material-ui.com/store/items/devias-kit/
+
+https://www.google.com/amp/s/goworkship.com/magazine/free-bootstrap-50-template-theme/amp/
+
+次から買うリンク先
+https://www.creative-tim.com/campaign?ref=demos-win-2021#special-section
+
+https://manage.wix.com/account/sites
+
+
 ざっくり全体の流れ
 https://www.youtube.com/watch?v=XbMLnYGL2TA&list=PLs0PfsB4pRduzIH3OeCsnOhqgWsN8sI6P
 
